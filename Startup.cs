@@ -40,6 +40,6 @@ namespace TinderApp
   }
   public static class DBConfiguration
     {
-        public static string ConnectionString = "Data Source=(localdb)\\mssqllocaldb;Initial Catalog=tinder;Integrated Security=SSPI;";
+        public static string ConnectionString = "Data Source=(localdb)\\mssqllocaldb;Initial Catalog=tinder_user;Integrated Security=SSPI;";
     }
 }
